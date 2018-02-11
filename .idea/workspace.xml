@@ -1,15 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="746c14ad-c557-475b-87da-a6a7f42036f8" name="Default" comment="">
+    <list default="true" id="746c14ad-c557-475b-87da-a6a7f42036f8" name="Default" comment="Finally work - 2">
       <change beforePath="$PROJECT_DIR$/.idea/Learn-project.iml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Test/.idea/Test.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Test/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Test/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Test/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/.editorconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/.gitattributes" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/.htaccess" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/404.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/browserconfig.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/css/main.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/css/normalize.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/doc/TOC.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/doc/css.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/doc/extend.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/doc/faq.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/doc/html.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/doc/js.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/doc/misc.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/doc/usage.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/humans.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/img/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/js/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/js/plugins.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/js/vendor/jquery-3.2.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/js/vendor/modernizr-3.5.0.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/site.webmanifest" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/tile-wide.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Test/tile.png" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,28 +45,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -91,11 +96,6 @@
               <item name="Learn-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn-project" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="Learn-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn-project" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Test" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -141,7 +141,7 @@
       <workItem from="1518332913333" duration="3000" />
       <workItem from="1518333620305" duration="732000" />
       <workItem from="1518334387635" duration="1572000" />
-      <workItem from="1518335971356" duration="20000" />
+      <workItem from="1518335971356" duration="126000" />
     </task>
     <task id="LOCAL-00001" summary="Test№1">
       <created>1518333764998</created>
@@ -178,11 +178,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518334838254</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finally work - 2">
+      <created>1518336001484</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1518336001484</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2327000" />
+    <option name="totallyTimeSpent" value="2433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -218,7 +225,8 @@
     <MESSAGE value="Test№1" />
     <MESSAGE value="Finally work" />
     <MESSAGE value="Finally work - 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finally work - 1" />
+    <MESSAGE value="Finally work - 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finally work - 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
