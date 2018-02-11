@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="746c14ad-c557-475b-87da-a6a7f42036f8" name="Default" comment="Test№1">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/.editorconfig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/.gitattributes" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/.htaccess" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/.idea/Test.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/browserconfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/css/normalize.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/doc/TOC.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/doc/css.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/doc/extend.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/doc/faq.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/doc/html.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/doc/js.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/doc/misc.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/doc/usage.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/humans.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/img/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/js/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/js/plugins.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/js/vendor/jquery-3.2.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/js/vendor/modernizr-3.5.0.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/robots.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/site.webmanifest" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/tile-wide.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Test/tile.png" />
+    <list default="true" id="746c14ad-c557-475b-87da-a6a7f42036f8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -132,19 +98,27 @@
       <option name="presentableId" value="Default" />
       <updated>1518332912023</updated>
       <workItem from="1518332913333" duration="3000" />
-      <workItem from="1518333620305" duration="131000" />
+      <workItem from="1518333620305" duration="149000" />
     </task>
+    <task id="LOCAL-00001" summary="Test№1">
+      <created>1518333764998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1518333764998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134000" />
+    <option name="totallyTimeSpent" value="152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
